@@ -4,7 +4,5 @@ O_o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugPersonality&langs_count=8&theme=tokyonight)](https://github.com/BugPersonality/github-readme-stats)
 
-
-
 o_o
 
